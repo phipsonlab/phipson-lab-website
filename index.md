@@ -6,12 +6,15 @@
 
 
 {% include section.html %}
+# 
+The Phipson laboratory works on both novel bioinformatics methods development as well as collaborative analysis projects with scientists within and external to the Institute. We use sophisticated statistical modelling to reveal insights into normal development and disease.
 
 ## Highlights
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We use data science to answer important questions in biology.
+In all of our research, we prioritize transparency, rigor, and reproducibility.
 
 {%
   include button.html
@@ -34,7 +37,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We believe that anyone around the world should be able to use and extend our work.
+We push to make software, tools, datasets, etc. that are freely available and openly licensed.
 
 {%
   include button.html
@@ -59,7 +63,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a team of enthusiastic researchers that want to push the frontier of data science.
+We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include button.html
@@ -74,7 +79,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team/group-photo-Sep2024.jpg"
   link="team"
   title="Our Team"
   text=text
