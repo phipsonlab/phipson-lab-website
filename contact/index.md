@@ -16,12 +16,7 @@ Our lab is part of the [University of Melbourne](https://www.unimelb.edu.au/)'s 
   text="phipson.b@wehi.edu.au"
   link="phipson.b@wehi.edu.au"
 %}
-[//]: #{%
-[//]: #  include button.html
-[//]: #  type="phone"
-[//]: #  text="(555) 867-5309"
-[//]: #  link="+1-555-867-5309"
-[//]: #%}
+
 {%
   include button.html
   type="address"
