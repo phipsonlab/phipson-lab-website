@@ -6,7 +6,7 @@
 
 
 {% include section.html %}
-# 
+# ONE SENTENCE SUMMARY
 The Phipson laboratory works on both novel bioinformatics methods development as well as collaborative analysis projects with scientists within and external to the Institute. We use sophisticated statistical modelling to reveal insights into normal development and disease.
 
 ## Highlights
