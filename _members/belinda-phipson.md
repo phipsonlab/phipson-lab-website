@@ -1,12 +1,14 @@
 ---
 name: Belinda Phipson
+aliases:
+  - Phipson, B.
 image: images/team/belinda.jpg
 role: pi
 links:
   orcid: 0000-0002-1711-7454
   home-page: https://www.wehi.edu.au/researcher/belinda-phipson/
   email: phipson.b@wehi.edu.au
-  google-scholar: od4hT8gAAAAJ&hl
+  google-scholar: https://scholar.google.com.au/citations?user=od4hT8gAAAAJ&hl=en
   github: bphipson
   twitter: BelindaPhipson
 ---
