@@ -1,174 +1,842 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1016/j.celrep.2022.111980
+  title: Stem cell plasticity, acetylation of H3K14, and de novo gene activation rely
+    on KAT7
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Andrew J. Kueh
+  - Maria I. Bergamasco
+  - Anna Quaglieri
+  - Belinda Phipson
+  - Connie S.N. Li-Wai-Suen
+  - "Ingrid M. L\xF6nnstedt"
+  - Yifang Hu
+  - Zhi-Ping Feng
+  - Chris Woodruff
+  - Rose E. May
+  - Stephen Wilcox
+  - Alexandra L. Garnham
+  - Michael P. Snyder
+  - Gordon K. Smyth
+  - Terence P. Speed
+  - Tim Thomas
+  - Anne K. Voss
+  publisher: Cell Reports
+  date: '2023-01-01'
+  link: https://doi.org/gv6464
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1161/CIRCULATIONAHA.121.057763
+  title: Defining the Fetal Gene Program at Single-Cell Resolution in Pediatric Dilated
+    Cardiomyopathy
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Neda R. Mehdiabadi
+  - Choon Boon Sim
+  - Belinda Phipson
+  - Ravi K.R. Kalathur
+  - Yuliangzi Sun
+  - Celine J. Vivien
+  - Menno ter Huurne
+  - Adam T. Piers
+  - James E. Hudson
+  - Alicia Oshlack
+  - Robert G. Weintraub
+  - Igor E. Konstantinov
+  - Nathan J. Palpant
+  - David A. Elliott
+  - Enzo R. Porrello
+  publisher: Circulation
+  date: '2022-10-04'
+  link: https://doi.org/gv647f
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.11.23.516993
+  title: Heterotopic reduction of forelimb progenitors underpins development of the
+    vestigial emu wing; implications for vertebrate limb evolution
+  authors:
+  - Axel H Newton
+  - Sarah M Williams
+  - Belinda Phipson
+  - Andrew J Pask
+  - Andrew T Major
+  - Craig A Smith
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2022-11-25'
+  link: https://doi.org/gv647w
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1093/bioinformatics/btac582
+  title: <i>propeller:</i> testing for differences in cell type proportions in single
+    cell data
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Belinda Phipson
+  - Choon Boon Sim
+  - Enzo R Porrello
+  - Alex W Hewitt
+  - Joseph Powell
+  - Alicia Oshlack
+  publisher: Bioinformatics
+  date: '2022-08-25'
+  link: https://doi.org/gs7zd5
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1161/circulationaha.120.051921
+  title: Sex-Specific Control of Human Heart Maturation by the Progesterone Receptor
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Choon Boon Sim
+  - Belinda Phipson
+  - Mark Ziemann
+  - Haloom Rafehi
+  - Richard J. Mills
+  - Kevin I. Watt
+  - Kwaku D. Abu-Bonsrah
+  - Ravi K.R. Kalathur
+  - Holly K. Voges
+  - Doan T. Dinh
+  - Menno ter Huurne
+  - Celine J. Vivien
+  - Antony Kaspi
+  - Harikrishnan Kaipananickal
+  - Alejandro Hidalgo
+  - Leanne M.D. Delbridge
+  - Rebecca L. Robker
+  - Paul Gregorevic
+  - Cristobal G. dos Remedios
+  - Sean Lal
+  - Adam T. Piers
+  - Igor E. Konstantinov
+  - David A. Elliott
+  - Assam El-Osta
+  - Alicia Oshlack
+  - James E. Hudson
+  - Enzo R. Porrello
+  publisher: Circulation
+  date: '2021-04-20'
+  link: https://doi.org/gv6479
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1186/s13059-021-02388-x
+  title: Gene set enrichment analysis for genome-wide DNA methylation data
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
-  authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Jovana Maksimovic
+  - Alicia Oshlack
+  - Belinda Phipson
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2021-06-08'
+  link: https://doi.org/gkgq5c
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:31118232
+  title: Single cell analysis of the developing mouse kidney provides deeper insight
+    into marker gene expression and ligand-receptor crosstalk.
+  authors:
+  - Alexander N Combes
+  - Belinda Phipson
+  - Kynan T Lawlor
+  - Aude Dorison
+  - Ralph Patrick
+  - Luke Zappia
+  - Richard P Harvey
+  - Alicia Oshlack
+  - Melissa H Little
+  publisher: Development (Cambridge, England)
+  date: '2019-06-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/31118232
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30573816
+  title: Evaluation of variability in human kidney organoids.
+  authors:
+  - Belinda Phipson
+  - Pei X Er
+  - Alexander N Combes
+  - Thomas A Forbes
+  - Sara E Howden
+  - Luke Zappia
+  - Hsan-Jan Yen
+  - Kynan T Lawlor
+  - Lorna J Hale
+  - Jane Sun
+  - Ernst Wolvetang
+  - Minoru Takasato
+  - Alicia Oshlack
+  - Melissa H Little
+  publisher: Nature methods
+  date: '2018-12-20'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30573816
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:30514835
+  title: 3D organoid-derived human glomeruli for personalised podocyte disease modelling
+    and drug screening.
+  authors:
+  - Lorna J Hale
+  - Sara E Howden
+  - Belinda Phipson
+  - Andrew Lonsdale
+  - Pei X Er
+  - Irene Ghobrial
+  - Salman Hosawi
+  - Sean Wilson
+  - Kynan T Lawlor
+  - Shahnaz Khan
+  - Alicia Oshlack
+  - Catherine Quinlan
+  - Rachel Lennon
+  - Melissa H Little
+  publisher: Nature communications
+  date: '2018-12-04'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30514835
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-018-1505-2
+  title: 'STRetch: detecting and discovering pathogenic short tandem repeat expansions'
+  authors:
+  - Harriet Dashnow
+  - Monkol Lek
+  - Belinda Phipson
+  - Andreas Halman
+  - Simon Sadedin
+  - Andrew Lonsdale
+  - Mark Davis
+  - Phillipa Lamont
+  - Joshua S. Clayton
+  - Nigel G. Laing
+  - Daniel G. MacArthur
+  - Alicia Oshlack
+  publisher: Genome Biology
+  date: '2018-08-21'
+  link: https://doi.org/gd49p5
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0204038
+  title: Shifts in ovine cardiopulmonary microRNA expression in late gestation and
+    the perinatal period
+  authors:
+  - Ramona H. Krauss
+  - Belinda Phipson
+  - Alicia Oshlack
+  - Nikita Prasad-Gupta
+  - Michael M. Cheung
+  - Joseph J. Smolich
+  - Salvatore Pepe
+  publisher: PLOS ONE
+  date: '2018-09-19'
+  link: https://doi.org/gd9ndj
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1006245
+  title: Exploring the single-cell RNA-seq analysis landscape with the scRNA-tools
+    database
+  authors:
+  - Luke Zappia
+  - Belinda Phipson
+  - Alicia Oshlack
+  publisher: PLOS Computational Biology
+  date: '2018-06-25'
+  link: https://doi.org/gdqcjz
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ajhg.2018.03.014
+  title: Patient-iPSC-Derived Kidney Organoids Show Functional Validation of a Ciliopathic
+    Renal Phenotype and Reveal Underlying Pathogenetic Mechanisms
+  authors:
+  - Thomas A. Forbes
+  - Sara E. Howden
+  - Kynan Lawlor
+  - Belinda Phipson
+  - Jovana Maksimovic
+  - Lorna Hale
+  - Sean Wilson
+  - Catherine Quinlan
+  - Gladys Ho
+  - Katherine Holman
+  - Bruce Bennetts
+  - Joanna Crawford
+  - Peter Trnka
+  - Alicia Oshlack
+  - Chirag Patel
+  - Andrew Mallett
+  - Cas Simons
+  - Melissa H. Little
+  publisher: The American Journal of Human Genetics
+  date: '2018-05-01'
+  link: https://doi.org/gdk6pg
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.kint.2017.09.015
+  title: Haploinsufficiency for the Six2 gene increases nephron progenitor proliferation
+    promoting branching and nephron number
+  authors:
+  - Alexander N. Combes
+  - Sean Wilson
+  - Belinda Phipson
+  - Brandon B. Binnie
+  - Adler Ju
+  - Kynan T. Lawlor
+  - Cristina Cebrian
+  - Sarah L. Walton
+  - Ian M. Smyth
+  - Karen M. Moritz
+  - Raphael Kopan
+  - Alicia Oshlack
+  - Melissa H. Little
+  publisher: Kidney International
+  date: '2018-03-01'
+  link: https://doi.org/gc5hdt
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-017-1305-0
+  title: 'Splatter: simulation of single-cell RNA sequencing data'
+  authors:
+  - Luke Zappia
+  - Belinda Phipson
+  - Alicia Oshlack
+  publisher: Genome Biology
+  date: '2017-09-12'
+  link: https://doi.org/gc3h3g
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/f1000research.11290.1
+  title: Gene length and detection bias in single cell RNA sequencing protocols
+  authors:
+  - Belinda Phipson
+  - Luke Zappia
+  - Alicia Oshlack
+  publisher: F1000Research
+  date: '2017-04-28'
+  link: https://doi.org/grpr6s
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.12688/f1000research.8839.3
+  title: A cross-package Bioconductor workflow for analysing methylation array data
+  authors:
+  - Jovana Maksimovic
+  - Belinda Phipson
+  - Alicia Oshlack
+  publisher: F1000Research
+  date: '2017-04-05'
+  link: https://doi.org/ggdsh6
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nbt.3702
+  title: Differentiation of human embryonic stem cells to HOXA+ hemogenic vasculature
+    that resembles the aorta-gonad-mesonephros
+  authors:
+  - Elizabeth S Ng
+  - Lisa Azzola
+  - Freya F Bruveris
+  - Vincenzo Calvanese
+  - Belinda Phipson
+  - Katerina Vlahos
+  - Claire Hirst
+  - Vanta J Jokubaitis
+  - Qing C Yu
+  - Jovana Maksimovic
+  - Simone Liebscher
+  - Vania Januar
+  - Zhen Zhang
+  - Brenda Williams
+  - Aude Conscience
+  - Jennifer Durnall
+  - Steven Jackson
+  - Magdaline Costa
+  - David Elliott
+  - David N Haylock
+  - Susan K Nilsson
+  - Richard Saffery
+  - Katja Schenke-Layland
+  - Alicia Oshlack
+  - Hanna K A Mikkola
+  - Edouard G Stanley
+  - Andrew G Elefanty
+  publisher: Nature Biotechnology
+  date: '2016-10-17'
+  link: https://doi.org/f9bb94
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/leu.2016.279
+  title: Functionally distinct roles for different miR-155 expression levels through
+    contrasting effects on gene expression, in acute myeloid leukaemia
+  authors:
+  - N Narayan
+  - L Morenos
+  - B Phipson
+  - S N Willis
+  - G Brumatti
+  - S Eggers
+  - N Lalaoui
+  - L M Brown
+  - H J Kosasih
+  - R C Bartolo
+  - L Zhou
+  - D Catchpoole
+  - R Saffery
+  - A Oshlack
+  - G J Goodall
+  - P G Ekert
+  publisher: Leukemia
+  date: '2016-10-14'
+  link: https://doi.org/f92t6z
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1214/16-aoas920
+  title: Robust hyperparameter estimation protects against hypervariable genes and
+    improves power to detect differential expression
+  authors:
+  - Belinda Phipson
+  - Stanley Lee
+  - Ian J. Majewski
+  - Warren S. Alexander
+  - Gordon K. Smyth
+  publisher: The Annals of Applied Statistics
+  date: '2016-06-01'
+  link: https://doi.org/gfgp3f
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btv560
+  title: "missMethyl: an R package for analyzing data from Illumina\u2019s HumanMethylation450\
+    \ platform"
+  authors:
+  - Belinda Phipson
+  - Jovana Maksimovic
+  - Alicia Oshlack
+  publisher: Bioinformatics
+  date: '2015-09-30'
+  link: https://doi.org/gj6q9v
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/onc.2015.33
+  title: MOZ (MYST3, KAT6A) inhibits senescence via the INK4A-ARF pathway
+  authors:
+  - B N Sheikh
+  - B Phipson
+  - F El-Saafin
+  - H K Vanyai
+  - N L Downer
+  - M J Bird
+  - A J Kueh
+  - R E May
+  - G K Smyth
+  - A K Voss
+  - T Thomas
+  publisher: Oncogene
+  date: '2015-03-16'
+  link: https://doi.org/f7zqh4
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pgen.1005211
+  title: Early Lineage Priming by Trisomy of Erg Leads to Myeloproliferation in a
+    Down Syndrome Model
+  authors:
+  - Ashley P. Ng
+  - Yifang Hu
+  - Donald Metcalf
+  - Craig D. Hyland
+  - Helen Ierino
+  - Belinda Phipson
+  - Di Wu
+  - Tracey M. Baldwin
+  - Maria Kauppi
+  - Hiu Kiu
+  - Ladina Di Rago
+  - Douglas J. Hilton
+  - Gordon K. Smyth
+  - Warren S. Alexander
+  publisher: PLOS Genetics
+  date: '2015-05-14'
+  link: https://doi.org/f7dmcf
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1422872112
+  title: "MOZ and BMI1 play opposing roles during\n            <i>Hox</i>\n      \
+    \      gene activation in ES cells and in body segment identity specification\
+    \ in vivo"
+  authors:
+  - Bilal N. Sheikh
+  - Natalie L. Downer
+  - Belinda Phipson
+  - Hannah K. Vanyai
+  - Andrew J. Kueh
+  - Davis J. McCarthy
+  - Gordon K. Smyth
+  - Tim Thomas
+  - Anne K. Voss
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2015-04-14'
+  link: https://doi.org/f685kf
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gkv007
+  title: limma powers differential expression analyses for RNA-sequencing and microarray
+    studies
+  authors:
+  - Matthew E. Ritchie
+  - Belinda Phipson
+  - Di Wu
+  - Yifang Hu
+  - Charity W. Law
+  - Wei Shi
+  - Gordon K. Smyth
+  publisher: Nucleic Acids Research
+  date: '2015-01-20'
+  link: https://doi.org/f7c4n5
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-014-0465-4
+  title: 'DiffVar: a new method for detecting differential variability with application
+    to methylation in cancer and aging'
+  authors:
+  - Belinda Phipson
+  - Alicia Oshlack
+  publisher: Genome Biology
+  date: '2014-09-01'
+  link: https://doi.org/f6s8jd
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2013-02-484055
+  title: "Polycomb repressive complex 2 (PRC2) suppresses E\u03BC-myc lymphoma"
+  authors:
+  - Stanley C. W. Lee
+  - Belinda Phipson
+  - Craig D. Hyland
+  - Huei San Leong
+  - Rhys S. Allan
+  - Aaron Lun
+  - Douglas J. Hilton
+  - Stephen L. Nutt
+  - Marnie E. Blewitt
+  - Gordon K. Smyth
+  - Warren S. Alexander
+  - Ian J. Majewski
+  publisher: Blood
+  date: '2013-10-10'
+  link: https://doi.org/f5fwfg
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2011-12-400929
+  title: Bcl-2, Bcl-xL, and Bcl-w are not equivalent targets of ABT-737 and navitoclax
+    (ABT-263) in lymphoid and leukemic cells
+  authors:
+  - "Delphine M\xE9rino"
+  - Seong L. Khaw
+  - Stefan P. Glaser
+  - Daniel J. Anderson
+  - Lisa D. Belmont
+  - Chihunt Wong
+  - Peng Yue
+  - Mikara Robati
+  - Belinda Phipson
+  - Walter D. Fairlie
+  - Erinna F. Lee
+  - Kirsteen J. Campbell
+  - Cassandra J. Vandenberg
+  - Suzanne Cory
+  - Andrew W. Roberts
+  - Mary J. C. Ludlam
+  - David C. S. Huang
+  - Philippe Bouillet
+  publisher: Blood
+  date: '2012-06-14'
+  link: https://doi.org/f35vhm
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/cddis.2012.42
+  title: Neither loss of Bik alone, nor combined loss of Bik and Noxa, accelerate
+    murine lymphoma development or render lymphoma cells resistant to DNA damaging
+    drugs
+  authors:
+  - L Happo
+  - B Phipson
+  - G K Smyth
+  - A Strasser
+  - C L Scott
+  publisher: Cell Death &amp; Disease
+  date: '2012-05-10'
+  link: https://doi.org/f322xw
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.M111.327601
+  title: Proteomic and Metabolomic Analyses of Mitochondrial Complex I-deficient Mouse
+    Model Generated by Spontaneous B2 Short Interspersed Nuclear Element (SINE) Insertion
+    into NADH Dehydrogenase (Ubiquinone) Fe-S Protein 4 (Ndufs4) Gene
+  authors:
+  - Dillon W. Leong
+  - Jasper C. Komen
+  - Chelsee A. Hewitt
+  - Estelle Arnaud
+  - Matthew McKenzie
+  - Belinda Phipson
+  - Melanie Bahlo
+  - Adrienne Laskowski
+  - Sarah A. Kinkel
+  - Gayle M. Davey
+  - William R. Heath
+  - Anne K. Voss
+  - "Ren\xE9 P. Zahedi"
+  - James J. Pitt
+  - Roman Chrast
+  - Albert Sickmann
+  - Michael T. Ryan
+  - Gordon K. Smyth
+  - David R. Thorburn
+  - Hamish S. Scott
+  publisher: Journal of Biological Chemistry
+  date: '2012-06-01'
+  link: https://doi.org/f344kx
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2010-06-286393
+  title: Aire regulates the transfer of antigen from mTECs to dendritic cells for
+    induction of thymic tolerance
+  authors:
+  - "Fran\xE7ois-Xavier Hubert"
+  - Sarah A. Kinkel
+  - Gayle M. Davey
+  - Belinda Phipson
+  - Scott N. Mueller
+  - Adrian Liston
+  - Anna I. Proietto
+  - Ping Z. F. Cannon
+  - Simon Forehan
+  - Gordon K. Smyth
+  - Li Wu
+  - Christopher C. Goodnow
+  - Francis R. Carbone
+  - Hamish S. Scott
+  - William R. Heath
+  publisher: Blood
+  date: '2011-09-01'
+  link: https://doi.org/bx95dk
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4049/jimmunol.1101176
+  title: Targeting Antigen to Mouse Dendritic Cells via Clec9A Induces Potent CD4
+    T Cell Responses Biased toward a Follicular Helper Phenotype
+  authors:
+  - Mireille H. Lahoud
+  - Fatma Ahmet
+  - Susie Kitsoulis
+  - Soo San Wan
+  - David Vremec
+  - Chin-Nien Lee
+  - Belinda Phipson
+  - Wei Shi
+  - Gordon K. Smyth
+  - Andrew M. Lew
+  - Yu Kato
+  - Scott N. Mueller
+  - Gayle M. Davey
+  - William R. Heath
+  - Ken Shortman
+  - Irina Caminschi
+  publisher: The Journal of Immunology
+  date: '2011-07-15'
+  link: https://doi.org/bdk57n
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.101881.109
+  title: A recombination hotspot leads to sequence variability within a novel gene
+    (<i>AK005651</i>) and contributes to type 1 diabetes susceptibility
+  authors:
+  - Iris K.L. Tan
+  - Leanne Mackin
+  - Nancy Wang
+  - Anthony T. Papenfuss
+  - Colleen M. Elso
+  - Michelle P. Ashton
+  - Fiona Quirk
+  - Belinda Phipson
+  - Melanie Bahlo
+  - Terence P. Speed
+  - Gordon K. Smyth
+  - Grant Morahan
+  - Thomas C. Brodnicki
+  publisher: Genome Research
+  date: '2010-11-04'
+  link: https://doi.org/ch9q6p
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2010-04-280818
+  title: "Maximal killing of lymphoma cells by DNA damage\u2013inducing therapy requires\
+    \ not only the p53 targets Puma and Noxa, but also Bim"
+  authors:
+  - Lina Happo
+  - Mark S. Cragg
+  - Belinda Phipson
+  - Jon M. Haga
+  - Elisa S. Jansen
+  - Marco J. Herold
+  - Grant Dewson
+  - Ewa M. Michalak
+  - Cassandra J. Vandenberg
+  - Gordon K. Smyth
+  - Andreas Strasser
+  - Suzanne Cory
+  - Clare L. Scott
+  publisher: Blood
+  date: '2010-12-09'
+  link: https://doi.org/cm88qx
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2009-12-260760
+  title: Opposing roles of polycomb repressive complexes in hematopoietic stem and
+    progenitor cells
+  authors:
+  - Ian J. Majewski
+  - Matthew E. Ritchie
+  - Belinda Phipson
+  - Jason Corbin
+  - Miha Pakusch
+  - Anja Ebert
+  - Meinrad Busslinger
+  - Haruhiko Koseki
+  - Yifang Hu
+  - Gordon K. Smyth
+  - Warren S. Alexander
+  - Douglas J. Hilton
+  - Marnie E. Blewitt
+  publisher: Blood
+  date: '2010-08-05'
+  link: https://doi.org/dcvjmc
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2202/1544-6115.1585
+  title: 'Permutation P-values Should Never Be Zero: Calculating Exact P-values When
+    Permutations Are Randomly Drawn'
+  authors:
+  - Belinda Phipson
+  - Gordon K Smyth
+  publisher: Statistical Applications in Genetics and Molecular Biology
+  date: '2010-01-31'
+  link: https://doi.org/ckkrfx
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2337/db09-0287
+  title: Pro-Inflammatory CD11c+CD206+ Adipose Tissue Macrophages Are Associated With
+    Insulin Resistance in Human Obesity
+  authors:
+  - John M. Wentworth
+  - Gaetano Naselli
+  - Wendy A. Brown
+  - Lisa Doyle
+  - Belinda Phipson
+  - Gordon K. Smyth
+  - Martin Wabitsch
+  - Paul E. O'Brien
+  - Leonard C. Harrison
+  publisher: Diabetes
+  date: '2010-03-31'
+  link: https://doi.org/brx5rz
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jxb/erp254
+  title: Molecular dissection of the pea shoot apical meristem*
+  authors:
+  - Dacheng Liang
+  - Chui E. Wong
+  - Mohan B. Singh
+  - Christine A. Beveridge
+  - Belinda Phipson
+  - Gordon K. Smyth
+  - Prem L. Bhalla
+  publisher: Journal of Experimental Botany
+  date: '2009-08-25'
+  link: https://doi.org/bj8pw3
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.0910354106
+  title: Murine hematopoietic blast colony-forming cells and their progeny have distinctive
+    membrane marker profiles
+  authors:
+  - Donald Metcalf
+  - Ashley P. Ng
+  - Stephen J. L. Loughran
+  - Belinda Phipson
+  - Gordon K. Smyth
+  - Ladina Di Rago
+  - Sandra Mifsud
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2009-11-10'
+  link: https://doi.org/dhbck3
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +852,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +868,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
