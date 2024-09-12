@@ -6,7 +6,7 @@ links:
   orcid: 0000-0002-1711-7454
   home-page: https://www.wehi.edu.au/researcher/belinda-phipson/
   email: phipson.b@wehi.edu.au
-  google-scholar: 
+  google-scholar: od4hT8gAAAAJ&hl
   github: bphipson
   twitter: BelindaPhipson
 ---
