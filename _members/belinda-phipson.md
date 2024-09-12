@@ -3,7 +3,7 @@ name: Belinda Phipson
 aliases:
   - Belinda Phipson
   - Phipson, B.
-image: images/team/belinda.jpg
+image: images/team/belinda.jpeg
 role: pi
 links:
   orcid: 0000-0002-1711-7454
