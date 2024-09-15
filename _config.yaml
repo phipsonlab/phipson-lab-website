@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@phipsonlabDESCRIPTION=An engaging 1-3 sentence description of your lab..com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
-  github: phipsonlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  twitter: phipsonlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
-  youtube: phipsonlabDESCRIPTION=An engaging 1-3 sentence description of your lab.
+  email: phipson.b@wehi.edu.au
+  orcid: 0000-0002-1711-7454
+  google-scholar: od4hT8gAAAAJ&hl=en
+  github: phipsonlab
+  twitter: BelindaPhipson
+#  youtube: BelindaPhipson
 
 ### jekyll settings
 
