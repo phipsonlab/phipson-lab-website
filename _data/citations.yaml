@@ -1,5 +1,242 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2024.03.17.585125
+  title: Defining focal neuroendocrine differentiation as a transcriptionally distinct
+    form of prostate cancer pathology characterized by the expression of androgen
+    receptors
+  authors:
+  - Rosalia Quezada Urban
+  - Shivakumar Keerthikumar
+  - Ashlee Clark
+  - Hong Wang
+  - Belinda Phipson
+  - Andrew Bakshi
+  - Andrew Ryan
+  - Heather Thorne
+  - Renea A Taylor
+  - Mitchell G Lawrence
+  - Gail Risbridger
+  - Roxanne Toivanen
+  - David L Goode
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-19'
+  link: https://doi.org/g4b95h
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.03.20.586030
+  title: 'GLMsim: a GLM-based single cell RNA-seq simulator incorporating batch and
+    biological effects'
+  authors:
+  - Jianan Wang
+  - Lizhong Chen
+  - Rachel Thijssen
+  - Belinda Phipson
+  - Terence P. Speed
+  publisher: Cold Spring Harbor Laboratory
+  date: '2024-03-23'
+  link: https://doi.org/g4b95w
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ebiom.2024.105016
+  title: In situ single-cell profiling sheds light on IFI27 localisation during SARS-CoV-2
+    infection
+  authors:
+  - Chin Wee Tan
+  - Jinjin Chen
+  - Ning Liu
+  - Dharmesh D. Bhuva
+  - Tony Blick
+  - James Monkman
+  - Caroline Cooper
+  - Malvika Kharbanda
+  - Kristen Feher
+  - Belinda Phipson
+  - Emily E. Killingbeck
+  - Liuliu Pan
+  - Youngmi Kim
+  - Yan Liang
+  - Andy Nam
+  - Michael Leon
+  - Paulo Souza-Fonseca-Guimaraes
+  - Seigo Nagashima
+  - Ana Paula Camargo Martins
+  - Cleber Machado-Souza
+  - Lucia de Noronha
+  - Benjamin Tang
+  - Kirsty Short
+  - John Fraser
+  - Gabrielle T. Belz
+  - Fernando Souza-Fonseca-Guimaraes
+  - Arutha Kulasinghe
+  - Melissa J. Davis
+  publisher: eBioMedicine
+  date: '2024-03-01'
+  link: https://doi.org/g4b96f
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-024-03241-7
+  title: Library size confounds biology in spatial transcriptomics data
+  authors:
+  - Dharmesh D. Bhuva
+  - Chin Wee Tan
+  - Agus Salim
+  - Claire Marceaux
+  - Marie A. Pickering
+  - Jinjin Chen
+  - Malvika Kharbanda
+  - Xinyi Jin
+  - Ning Liu
+  - Kristen Feher
+  - Givanna Putri
+  - Wayne D. Tilley
+  - Theresa E. Hickey
+  - Marie-Liesse Asselin-Labat
+  - Belinda Phipson
+  - Melissa J. Davis
+  publisher: Genome Biology
+  date: '2024-04-18'
+  link: https://doi.org/gtzvh3
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-024-03229-3
+  title: 'SuperCellCyto: enabling efficient analysis of large scale cytometry datasets'
+  authors:
+  - Givanna H. Putri
+  - George Howitt
+  - Felix Marsh-Wakefield
+  - Thomas M. Ashhurst
+  - Belinda Phipson
+  publisher: Genome Biology
+  date: '2024-04-08'
+  link: https://doi.org/g4b962
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.11.19.567755
+  title: Extraction and quantification of lineage-tracing barcodes with NextClone
+    and CloneDetective
+  authors:
+  - Givanna H. Putri
+  - Nichelle Pires
+  - Nadia M. Davidson
+  - Catherine Blyth
+  - "Aziz M. Al\u2019Khafaji"
+  - Shom Goel
+  - Belinda Phipson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-11-20'
+  link: https://doi.org/g4b968
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.03.15.532733
+  title: Library size confounds biology in spatial transcriptomics data
+  authors:
+  - Dharmesh D. Bhuva
+  - Chin Wee Tan
+  - Claire Marceaux
+  - Jinjin Chen
+  - Malvika Kharbanda
+  - Xinyi Jin
+  - Ning Liu
+  - Kristen Feher
+  - Givanna Putri
+  - Marie-Liesse Asselin-Labat
+  - Belinda Phipson
+  - Melissa J. Davis
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-03-15'
+  link: https://doi.org/g4b97p
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/bloodadvances.2023010045
+  title: Somatic mutational landscape of hereditary hematopoietic malignancies caused
+    by germline variants in <i>RUNX1</i>, <i>GATA2</i>, and <i>DDX41</i>
+  authors:
+  - Claire C. Homan
+  - Michael W. Drazer
+  - Kai Yu
+  - David M. Lawrence
+  - Jinghua Feng
+  - Luis Arriola-Martinez
+  - Matthew J. Pozsgai
+  - Kelsey E. McNeely
+  - Thuong Ha
+  - Parvathy Venugopal
+  - Peer Arts
+  - Sarah L. King-Smith
+  - Jesse Cheah
+  - Mark Armstrong
+  - Paul Wang
+  - "Csaba B\xF6d\xF6r"
+  - Alan B. Cantor
+  - Mario Cazzola
+  - Erin Degelman
+  - Courtney D. DiNardo
+  - Nicolas Duployez
+  - Remi Favier
+  - "Stefan Fr\xF6hling"
+  - Ana Rio-Machin
+  - Jeffery M. Klco
+  - "Alwin Kr\xE4mer"
+  - Mineo Kurokawa
+  - Joanne Lee
+  - Luca Malcovati
+  - Neil V. Morgan
+  - Georges Natsoulis
+  - Carolyn Owen
+  - Keyur P. Patel
+  - Claude Preudhomme
+  - Hana Raslova
+  - Hugh Rienhoff
+  - Tim Ripperger
+  - Rachael Schulte
+  - Kiran Tawana
+  - Elvira Velloso
+  - Benedict Yan
+  - Erika Kim
+  - Raman Sood
+  - Amy P. Hsu
+  - Steven M. Holland
+  - Kerry Phillips
+  - Nicola K. Poplawski
+  - Milena Babic
+  - Andrew H. Wei
+  - Cecily Forsyth
+  - Helen Mar Fan
+  - Ian D. Lewis
+  - Julian Cooney
+  - Rachel Susman
+  - Lucy C. Fox
+  - Piers Blombery
+  - Deepak Singhal
+  - Devendra Hiwase
+  - Belinda Phipson
+  - Andreas W. Schreiber
+  - Christopher N. Hahn
+  - Hamish S. Scott
+  - Paul Liu
+  - Lucy A. Godley
+  - Anna L. Brown
+  publisher: Blood Advances
+  date: '2023-10-12'
+  link: https://doi.org/g4b97w
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.celrep.2022.111980
   title: Stem cell plasticity, acetylation of H3K14, and de novo gene activation rely
     on KAT7
@@ -24,6 +261,21 @@
   publisher: Cell Reports
   date: '2023-01-01'
   link: https://doi.org/gv6464
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.08.14.553168
+  title: 'SuperCellCyto: enabling efficient analysis of large scale cytometry datasets'
+  authors:
+  - Givanna H. Putri
+  - George Howitt
+  - Felix Marsh-Wakefield
+  - Thomas M. Ashhurst
+  - Belinda Phipson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2023-08-14'
+  link: https://doi.org/g4b98b
   orcid: 0000-0002-1711-7454
   member: belinda-phipson
   plugin: orcid.py
@@ -151,6 +403,36 @@
   member: belinda-phipson
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1101/2021.11.28.470236
+  title: '<i>propeller</i>: testing for differences in cell type proportions in single
+    cell data'
+  authors:
+  - Belinda Phipson
+  - Choon Boon Sim
+  - Enzo R. Porrello
+  - Alex W Hewitt
+  - Joseph Powell
+  - Alicia Oshlack
+  publisher: Cold Spring Harbor Laboratory
+  date: '2021-11-28'
+  link: https://doi.org/gsxhf9
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.08.24.265702
+  title: Gene set enrichment analysis for genome-wide DNA methylation data
+  authors:
+  - Jovana Maksimovic
+  - Alicia Oshlack
+  - Belinda Phipson
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-08-25'
+  link: https://doi.org/gg87bn
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:31118232
   title: Single cell analysis of the developing mouse kidney provides deeper insight
     into marker gene expression and ligand-receptor crosstalk.
@@ -167,6 +449,26 @@
   publisher: Development (Cambridge, England)
   date: '2019-06-12'
   link: https://www.ncbi.nlm.nih.gov/pubmed/31118232
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1242/dev.182162
+  title: 'Correction: Single cell analysis of the developing mouse kidney provides
+    deeper insight into marker gene expression and ligand-receptor crosstalk (doi:10.1242/dev.178673)'
+  authors:
+  - Alexander N. Combes
+  - Belinda Phipson
+  - Kynan T. Lawlor
+  - Aude Dorison
+  - Ralph Patrick
+  - Luke Zappia
+  - Richard P. Harvey
+  - Alicia Oshlack
+  - Melissa H. Little
+  publisher: Development
+  date: '2019-07-01'
+  link: https://doi.org/g4b99g
   orcid: 0000-0002-1711-7454
   member: belinda-phipson
   plugin: orcid.py
@@ -362,6 +664,107 @@
   publisher: F1000Research
   date: '2017-04-05'
   link: https://doi.org/ggdsh6
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/206573
+  title: Exploring the single-cell RNA-seq analysis landscape with the scRNA-tools
+    database
+  authors:
+  - Luke Zappia
+  - Belinda Phipson
+  - Alicia Oshlack
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-10-20'
+  link: https://doi.org/gktrf8
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/119222
+  title: Gene length and detection bias in single cell RNA sequencing protocols
+  authors:
+  - Belinda Phipson
+  - Luke Zappia
+  - Alicia Oshlack
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-03-22'
+  link: https://doi.org/gkxdcz
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/235499
+  title: High throughput single cell RNA-seq of developing mouse kidney and human
+    kidney organoids reveals a roadmap for recreating the kidney
+  authors:
+  - Alexander N. Combes
+  - Belinda Phipson
+  - Luke Zappia
+  - Kynan T. Lawlor
+  - Pei Xuan Er
+  - Alicia Oshlack
+  - Melissa H. Little
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-12-16'
+  link: https://doi.org/gkw23n
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/159228
+  title: 'STRetch: detecting and discovering pathogenic short tandem repeat expansions'
+  authors:
+  - Harriet Dashnow
+  - Monkol Lek
+  - Belinda Phipson
+  - Andreas Halman
+  - Simon Sadedin
+  - Andrew Lonsdale
+  - Mark Davis
+  - Phillipa Lamont
+  - Joshua S. Clayton
+  - Nigel G. Laing
+  - Daniel G. MacArthur
+  - Alicia Oshlack
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-07-04'
+  link: https://doi.org/gkw2df
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/133173
+  title: 'Splatter: simulation of single-cell RNA sequencing data'
+  authors:
+  - Luke Zappia
+  - Belinda Phipson
+  - Alicia Oshlack
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-05-02'
+  link: https://doi.org/gkw2jb
+  orcid: 0000-0002-1711-7454
+  member: belinda-phipson
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/238428
+  title: Transcriptional evaluation of the developmental accuracy, reproducibility
+    and robustness of kidney organoids derived from human pluripotent stem cells
+  authors:
+  - Belinda Phipson
+  - Pei X Er
+  - Lorna Hale
+  - David Yen
+  - Kynan Lawlor
+  - Minoru Takasato
+  - Jane Sun
+  - Ernst Wolvetang
+  - Alicia Oshlack
+  - Melissa H Little
+  publisher: Cold Spring Harbor Laboratory
+  date: '2017-12-22'
+  link: https://doi.org/gkttp7
   orcid: 0000-0002-1711-7454
   member: belinda-phipson
   plugin: orcid.py
