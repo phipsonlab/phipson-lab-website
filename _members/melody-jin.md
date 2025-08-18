@@ -3,7 +3,7 @@ name: Melody Jin
 aliases:
   - Melody Jin
   - Xinyi Jin
-image: images/team/melody.jpg
+image: images/photo.jpg
 role: phd
 links:
   orcid: 0000-0002-2222-0958

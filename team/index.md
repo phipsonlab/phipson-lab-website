@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our team brings together expertise in bioinformatics, statistics, and genomics to tackle complex biological questions. We collaborate closely with experimental biologists and clinicians to develop methods that address real-world research challenges.
 
 {% include section.html %}
 
@@ -17,18 +15,14 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are committed to fostering a collaborative and inclusive research environment. Our lab values open science, mentorship, and continuous learning. We welcome researchers from diverse backgrounds who are passionate about advancing our understanding of biology through computational approaches.
 
 {% include section.html %}
 
-{% capture content %}
+{# automatic member grid rendered above by role using portrait component #}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include section.html %}
 
-{% endcapture %}
+## Past members
 
-{% include grid.html style="square" content=content %}
+{% include list.html data="members" component="portrait" filters="group: alum" %}

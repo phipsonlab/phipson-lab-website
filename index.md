@@ -1,20 +1,20 @@
 ---
 ---
 
-# phipsonlabDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Phipson Lab - Bioinformatics & Statistical Genomics
 
 
 
 {% include section.html %}
-# ONE SENTENCE SUMMARY
-The Phipson laboratory works on both novel bioinformatics methods development as well as collaborative analysis projects with scientists within and external to the Institute. We use sophisticated statistical modelling to reveal insights into normal development and disease.
+# About Our Lab
+The Phipson laboratory develops novel bioinformatics methods and conducts collaborative analysis projects with scientists within and external to the Institute. We use sophisticated statistical modeling to reveal insights into normal development and disease, with a particular focus on single-cell technologies and genomic data analysis.
 
 ## Highlights
 
 {% capture text %}
 
-We use data science to answer important questions in biology.
-In all of our research, we prioritize transparency, rigor, and reproducibility.
+We develop cutting-edge bioinformatics methods to answer fundamental questions in biology and medicine.
+Our research prioritizes transparency, rigor, and reproducibility, with all methods implemented as open-source R packages including speckle for single-cell analysis and SuperCellCyto for cytometry data.
 
 {%
   include button.html
@@ -37,8 +37,8 @@ In all of our research, we prioritize transparency, rigor, and reproducibility.
 
 {% capture text %}
 
-We believe that anyone around the world should be able to use and extend our work.
-We push to make software, tools, datasets, etc. that are freely available and openly licensed.
+We believe that scientific progress is accelerated through open collaboration and accessible tools.
+All our software packages are freely available on GitHub and Bioconductor, with comprehensive documentation and tutorials to enable researchers worldwide to build upon our work.
 
 {%
   include button.html
@@ -63,8 +63,8 @@ We push to make software, tools, datasets, etc. that are freely available and op
 
 {% capture text %}
 
-We are a team of enthusiastic researchers that want to push the frontier of data science.
-We strive to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
+We are a diverse team of enthusiastic researchers pushing the frontiers of bioinformatics and statistical genomics.
+We strive to build an inclusive environment for research, recognizing that diversity in perspectives and backgrounds enhances the process of scientific discovery.
 
 {%
   include button.html
@@ -79,7 +79,7 @@ We strive to build an inclusive environment for research, and recognize the valu
 
 {%
   include feature.html
-  image="images/team/group-photo-Sep2024.jpg"
+  image="images/photo.jpg"
   link="team"
   title="Our Team"
   text=text

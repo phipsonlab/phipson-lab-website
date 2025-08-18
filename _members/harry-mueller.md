@@ -2,7 +2,7 @@
 name: Harry Mueller
 aliases:
   - Harry Mueller
-image: images/team/harry.jpg
+image: images/photo.jpg
 role: phd
 links:
   orcid: 0009-0009-0710-9635

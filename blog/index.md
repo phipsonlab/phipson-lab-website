@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab blog features updates on our research, new software releases, tutorials, and insights into bioinformatics methods development. We share our experiences and lessons learned to help the broader research community.
+Follow our blog to stay updated on the latest developments in bioinformatics and statistical genomics research.
 
 {% include section.html %}
 

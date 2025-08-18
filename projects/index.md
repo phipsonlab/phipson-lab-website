@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our lab develops and maintains a range of bioinformatics tools and software packages that are freely available to the research community. These resources support single-cell analysis, cytometry studies, and statistical genomics research, with all tools implemented as open-source R packages.
 
 {% include tags.html tags="publication, resource, website" %}
 

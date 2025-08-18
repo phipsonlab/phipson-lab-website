@@ -1,47 +1,21 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: speckle
+  subtitle: Statistical methods for single-cell experiments
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/phipsonlab/speckle
+  description: An R package for analyzing differences in cell type proportions in single-cell RNA-seq data. Features propeller, propeller.ttest, and propeller.anova functions for statistical testing of cell type composition differences between experimental conditions.
+  repo: phipsonlab/speckle
   tags:
-    - resource
-
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
+    - software
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: SuperCellCyto
+  subtitle: SuperCell for Cytometry data
+  group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/phipsonlab/SuperCellCyto
+  description: An extension of the SuperCell R package tailored for cytometry data. Aggregates cells with similar marker expressions into "supercells" for each individual sample, enabling efficient analysis of large-scale cytometry datasets.
+  repo: phipsonlab/SuperCellCyto
   tags:
     - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - publication
