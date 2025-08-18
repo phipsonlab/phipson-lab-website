@@ -16,18 +16,16 @@
     data-big
   {% endif %}
 >
-  <!-- Home / brand -->
-  <a href="{{ "/" | relative_url }}" class="home" aria-label="Home">
+  <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
-      <span class="logo" aria-hidden="true">
+      <span class="logo">
         {% if svg %}
           {{ svg | file_read }}
         {% else %}
-          <img src="{{ logo | relative_url }}" alt="Phipson Lab logo">
+          <img src="{{ logo | relative_url }}" alt="logo">
         {% endif %}
       </span>
     {% endif %}
-
     {% if site.logo-text != false %}
       <span class="title-text" data-tooltip="Home">
         {% if site.title and site.show-title != false %}
@@ -40,17 +38,9 @@
     {% endif %}
   </a>
 
-  <!-- Mobile toggle -->
-  <input
-    id="nav-toggle"
-    class="nav-toggle"
-    type="checkbox"
-    aria-label="Toggle navigation"
-    aria-controls="site-nav"
-  >
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
 
-  <!-- Primary nav -->
-  <nav id="site-nav" role="navigation">
+  <nav>
     {% assign pages = site.pages
       | where_exp: "page", "page.nav"
       | sort: "nav.order"
