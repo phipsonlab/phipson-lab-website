@@ -1,9 +1,17 @@
 {% assign emptyarray = "" | split: "," %}
-{% assign data = site.data[include.data]
-  | default: site[include.data]
-  | default: emptyarray
-  | data_filter: include.filters
-%}
+{% if include.data_is_array %}
+  {% assign data = include.data | default: emptyarray %}
+{% else %}
+  {% assign data = site.data[include.data]
+    | default: site[include.data]
+    | default: emptyarray
+    | data_filter: include.filters
+  %}
+{% endif %}
+
+{% if include.dedupe_by %}
+  {% assign data = data | dedupe_by: include.dedupe_by, include.dedupe_prefer %}
+{% endif %}
 
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"

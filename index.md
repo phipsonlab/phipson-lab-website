@@ -13,13 +13,12 @@ The Phipson laboratory develops novel bioinformatics methods and conducts collab
 
 {% capture text %}
 
-We develop cutting-edge bioinformatics methods to answer fundamental questions in biology and medicine.
-Our research prioritizes transparency, rigor, and reproducibility, with all methods implemented as open-source R packages including speckle for single-cell analysis and SuperCellCyto for cytometry data.
+We develop cutting-edge bioinformatics methods to answer fundamental questions in biology and medicine. Our work focuses on creating tools to analyze complex data types, including single-cell sequencing, DNA methylation, cytometry, and spatial transcriptomics. We prioritize transparency, rigor, and reproducibility, with all methods released as open-source software to ensure broad accessibility and impact across the research community.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Learn more about our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -41,8 +40,8 @@ All our software packages are freely available on GitHub and Bioconductor, with 
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -52,8 +51,8 @@ All our software packages are freely available on GitHub and Bioconductor, with 
 
 {%
   include feature.html
-  link="projects"
-  title="Our Projects"
+  link="research"
+  title="Our Research"
   flip=true
   style="bare"
   text=text

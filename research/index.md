@@ -37,4 +37,6 @@ All our novel bioinformatics methods are implemented as publicly available open-
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% comment %} de-duplicate by title (keep latest) {% endcomment %}
+{% assign citations = site.data.citations | dedupe_by: 'title', 'latest' %}
+{% include list.html data=citations data_is_array=true component="citation" style="rich" %}

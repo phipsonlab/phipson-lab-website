@@ -1,7 +1,7 @@
 ---
 ---
 
-$logo-big: 80px;
+$logo-big: 120px;
 $logo: 40px;
 $big-padding: 100px;
 $collapse: 700px;
@@ -133,7 +133,7 @@ header:not([data-big]) {
 
 header[data-big] {
   justify-content: center;
-  align-items: center;
+  align-items: flex-start;
   flex-direction: column;
   padding: $big-padding 20px;
 
@@ -144,6 +144,7 @@ header[data-big] {
   .home {
     flex-direction: column;
     flex-grow: 0;
+    align-items: flex-start;
   }
 
   .logo {
@@ -152,8 +153,8 @@ header[data-big] {
 
   .title-text {
     flex-direction: column;
-    align-items: center;
-    text-align: center;
+    align-items: flex-start;
+    text-align: left;
   }
 
   .title {
