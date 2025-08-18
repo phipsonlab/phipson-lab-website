@@ -5,13 +5,16 @@ on:
   push:
     branches:
       - main
-
-  # run if user manually requests it
   workflow_dispatch:
 
 permissions:
   contents: write
   pull-requests: write
+
+# keep runs from piling up per branch
+concurrency:
+  group: on-push-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   update-citations:
