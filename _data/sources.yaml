@@ -4,16 +4,14 @@
   date: "2022-10-14"
   buttons:
     - type: source
-      text: Manuscript Source
-      link: https://github.com/phipsonlab/speckle
+      text: Publication
+      link: https://doi.org/10.1093/bioinformatics/btac582
     - type: website
-      link: https://phipsonlab.github.io/propeller-paper-analysis/
+      link: https://github.com/phipsonlab/speckle
   tags:
-    - open science
-    - collaboration
+    - software
+    - single-cell
   repo: phipsonlab/speckle
-
-- id: doi:10.1038/s41592-018-0253-2
 
 - id: doi:10.1186/s13059-024-03229-3
   type: paper
@@ -21,12 +19,11 @@
   date: "2024-04-08"
   buttons:
     - type: source
-      text: Manuscript Source
-      link: https://github.com/phipsonlab/SuperCellCyto
+      text: Publication
+      link: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03229-3
     - type: website
-      link: https://phipsonlab.github.io/SuperCellCyto/
+      link: https://github.com/phipsonlab/SuperCellCyto
   tags:
-    - open science
     - cytometry
     - software
   repo: phipsonlab/SuperCellCyto

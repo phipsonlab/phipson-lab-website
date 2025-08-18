@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Phipson Lab
-subtitle: From data to biological insight
+subtitle:
 description: The Phipson laboratory develops novel bioinformatics methods and conducts collaborative analysis projects to reveal insights into normal development and disease using sophisticated statistical modeling and single-cell technologies.
 header: images/background.jpg
 footer: images/background.jpg

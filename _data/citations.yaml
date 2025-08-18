@@ -362,10 +362,10 @@
     genomics.'
   buttons:
   - type: source
-    text: Manuscript Source
-    link: https://github.com/phipsonlab/speckle
+    text: Publication
+    link: https://doi.org/10.1093/bioinformatics/btac582
   - type: website
-    link: https://phipsonlab.github.io/propeller-paper-analysis/
+    link: https://github.com/phipsonlab/speckle
   tags:
   - open science
   - collaboration

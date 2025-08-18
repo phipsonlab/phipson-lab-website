@@ -3,6 +3,7 @@ cite process to convert sources and metasources into full citations
 """
 
 import traceback
+import re
 from importlib import import_module
 from pathlib import Path
 from dotenv import load_dotenv
@@ -163,6 +164,66 @@ for index, source in enumerate(sources):
 
     # add new citation to list
     citations.append(citation)
+
+
+log()
+
+log("Deduplicating citations by title (prefer published, keep newest)")
+
+
+# normalize title for grouping
+def normalize_title(title):
+    if not title:
+        return ""
+    title = title.lower().strip()
+    # remove punctuation and spaces for robust matching
+    return re.sub(r"[^a-z0-9]", "", title)
+
+
+def is_preprint(c):
+    _id = get_safe(c, "id", "").lower()
+    publisher = get_safe(c, "publisher", "").lower()
+    if _id.startswith("doi:10.1101"):
+        return True
+    if "biorxiv" in publisher or "medrxiv" in publisher:
+        return True
+    return False
+
+
+def is_published(c):
+    publisher = get_safe(c, "publisher", "").strip()
+    return bool(publisher) and not is_preprint(c)
+
+
+def sort_key(c):
+    # prefer published, then by date desc
+    date = get_safe(c, "date", "") or "0000-00-00"
+    return (1 if is_published(c) else 0, date)
+
+
+# group by normalized title
+groups = {}
+untitled = []
+for c in citations:
+    title = get_safe(c, "title", "")
+    key = normalize_title(title)
+    if not key:
+        untitled.append(c)
+        continue
+    groups.setdefault(key, []).append(c)
+
+
+# select best per group
+deduped = []
+for key, items in groups.items():
+    # sort with preference and take the best
+    best = sorted(items, key=sort_key, reverse=True)[0]
+    deduped.append(best)
+
+
+# merge and preserve deterministic order by date desc
+citations = deduped + untitled
+citations = sorted(citations, key=lambda c: get_safe(c, "date", ""), reverse=True)
 
 
 log()

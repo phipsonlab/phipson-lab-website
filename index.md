@@ -1,7 +1,7 @@
 ---
 ---
 
-# Phipson Lab - From data to biological insight
+# Phipson Lab
 
 
 
