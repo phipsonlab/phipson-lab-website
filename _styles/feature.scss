@@ -54,8 +54,9 @@ $wrap: 800px;
 
 /* text-only variant */
 .feature[data-text-only] {
-  max-width: $wrap;
-  margin: 40px auto;
+  width: 100%;
+  max-width: none;
+  margin: 40px 0;
   gap: 16px;
   align-items: flex-start;
   flex-direction: column;
