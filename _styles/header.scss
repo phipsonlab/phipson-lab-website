@@ -1,0 +1,196 @@
+// ======= Theme knobs you’ll likely tweak =======
+$logo-big: 220px;     // was 160px
+$logo: 56px;          // was 40px
+$big-padding: 96px;
+$collapse: 820px;     // nudge breakpoint a bit wider
+$sticky: true;
+
+// ======= Header wrapper =======
+header {
+  --glass-bg: rgba(10,12,16,0.45);
+  --border: rgba(255,255,255,0.08);
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+  padding: 14px 20px;
+  box-shadow: none;
+
+  @if $sticky {
+    position: sticky !important;
+    top: 0;
+    z-index: 20 !important;
+    background: var(--glass-bg);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-bottom: 1px solid var(--border);
+  }
+}
+
+header a {
+  color: var(--text);
+  text-decoration: none;
+}
+
+// ======= Left cluster: logo + titles =======
+.home {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+  flex: 1 1 auto;
+}
+
+.logo {
+  height: $logo;
+  width: auto;
+  display: inline-flex;
+}
+.logo > * { height: 100%; width: auto; display: block; }
+
+// Titles
+.title-text {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  min-width: 0;
+  font-family: var(--title);
+  line-height: 1.1;
+}
+
+.title {
+  font-size: clamp(20px, 2.2vw, var(--large));
+  letter-spacing: 0.2px;
+}
+
+.subtitle {
+  opacity: 0.7;
+  font-weight: var(--thin);
+  font-size: clamp(12px, 1.3vw, 15px);
+}
+
+// ======= Nav (desktop) =======
+nav {
+  display: flex;
+  align-items: center;
+  gap: 22px;
+  font-family: var(--heading);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+nav > a {
+  position: relative;
+  padding: 8px 2px; // bigger tap targets
+  opacity: 0.9;
+  transition: opacity 160ms ease;
+}
+
+nav > a:hover { opacity: 1; }
+
+// Underline animation
+nav > a::after {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; bottom: 0;
+  height: 2px;
+  background: var(--primary);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 180ms ease;
+}
+nav > a:hover::after,
+nav > a:focus-visible::after { transform: scaleX(1); }
+
+// Focus ring
+a:focus-visible {
+  outline: 2px solid var(--primary);
+  outline-offset: 2px;
+  border-radius: 6px;
+}
+
+// ======= Mobile toggle =======
+.nav-toggle {
+  display: none;
+  position: relative;
+  width: 36px;
+  height: 36px;
+  margin: 0;
+  appearance: none;
+  color: var(--text);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: rgba(255,255,255,0.02);
+}
+
+.nav-toggle:after {
+  content: "\f0c9";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  color: var(--text);
+  font-size: 16px;
+  font-family: "Font Awesome 6 Free";
+  font-weight: 900;
+  transform: translate(-50%, -50%);
+}
+.nav-toggle:checked:after { content: "\f00d"; }
+
+// ======= Responsive behavior (non-big header) =======
+header:not([data-big]) {
+  @media (max-width: $collapse) {
+    .nav-toggle { display: inline-flex; justify-content: center; align-items: center; }
+
+    // turn nav into a slide-down panel
+    .nav-toggle:not(:checked) + nav { display: none; }
+
+    nav {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      width: 100%;
+      padding: 12px 0 6px;
+      border-top: 1px solid var(--border);
+    }
+  }
+}
+
+// ======= “Hero” variant for the homepage =======
+header[data-big] {
+  // center everything and create a proper hero
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: clamp(56px, 10vh, #{$big-padding}) 20px 48px;
+
+  @if $sticky { top: unset; background: transparent; border-bottom: 0; backdrop-filter: none; }
+
+  .home {
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+    flex: 0 0 auto;
+  }
+
+  .logo { height: $logo-big; }
+
+  .title-text {
+    align-items: center;
+    text-align: center;
+  }
+
+  .title   { font-size: clamp(36px, 6.5vw, var(--xxl)); }
+  .subtitle{ font-size: clamp(16px, 2.2vw, var(--large)); opacity: 0.75; }
+
+  // place nav beneath the title as a clean row of links
+  nav {
+    margin-top: 26px;
+    gap: clamp(14px, 4vw, 28px);
+  }
+}
+
+// ======= Motion safety =======
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; animation: none !important; }
+}
