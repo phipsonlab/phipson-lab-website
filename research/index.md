@@ -25,7 +25,7 @@ All our novel bioinformatics methods are implemented as publicly available open-
 
 ## Highlighted
 
-{% include citation.html lookup="propeller: testing for differences in cell type proportions in single cell data" style="rich" %}
+{% include citation.html lookup="testing for differences in cell type proportions in single cell data" style="rich" %}
 
 {% include citation.html lookup="SuperCellCyto: enabling efficient analysis of large scale cytometry datasets" style="rich" %}
 
