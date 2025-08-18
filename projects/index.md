@@ -1,6 +1,7 @@
 ---
 title: Projects
 published: false
+nav: false
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects

@@ -1,17 +1,13 @@
 ---
 ---
 
-# Phipson Lab
-
-
-
 {% include section.html %}
 # About Our Lab
 The Phipson laboratory develops novel bioinformatics methods and conducts collaborative analysis projects with scientists within and external to the Institute. We use sophisticated statistical modeling to reveal insights into normal development and disease, with a particular focus on single-cell technologies and genomic data analysis.
 
 ## Highlights
 
-{% capture text %}
+{% capture text_research %}
 
 We develop cutting-edge bioinformatics methods to answer fundamental questions in biology and medicine. Our work focuses on creating tools to analyze complex data types, including single-cell sequencing, DNA methylation, cytometry, and spatial transcriptomics. We prioritize transparency, rigor, and reproducibility, with all methods released as open-source software to ensure broad accessibility and impact across the research community.
 
@@ -30,35 +26,11 @@ We develop cutting-edge bioinformatics methods to answer fundamental questions i
   include feature.html
   link="research"
   title="Our Research"
-  text=text
+  text=text_research
 %}
 
-{% capture text %}
 
-We believe that scientific progress is accelerated through open collaboration and accessible tools.
-All our software packages are freely available on GitHub and Bioconductor, with comprehensive documentation and tutorials to enable researchers worldwide to build upon our work.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  link="research"
-  title="Our Research"
-  flip=true
-  style="bare"
-  text=text
-%}
-
-{% capture text %}
+{% capture text_team %}
 
 We are a diverse team of enthusiastic researchers pushing the frontiers of bioinformatics and statistical genomics.
 We strive to build an inclusive environment for research, recognizing that diversity in perspectives and backgrounds enhances the process of scientific discovery.
@@ -78,5 +50,5 @@ We strive to build an inclusive environment for research, recognizing that diver
   include feature.html
   link="team"
   title="Our Team"
-  text=text
+  text=text_team
 %}
