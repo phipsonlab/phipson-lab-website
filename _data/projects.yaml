@@ -3,7 +3,7 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/phipsonlab/speckle
-  description: An R package for analyzing differences in cell type proportions in single-cell RNA-seq data. Features propeller, propeller.ttest, and propeller.anova functions for statistical testing of cell type composition differences between experimental conditions.
+  description: An R package for analyzing differences in cell type proportions in single-cell RNA-seq data. Features propeller, propeller.ttest, and propeller.anova functions for statistical testing of cell type composition differences between experimental conditions. [Paper](https://doi.org/10.1093/bioinformatics/btac582).
   repo: phipsonlab/speckle
   tags:
     - software
@@ -14,7 +14,7 @@
   group: featured
   image: images/photo.jpg
   link: https://github.com/phipsonlab/SuperCellCyto
-  description: An extension of the SuperCell R package tailored for cytometry data. Aggregates cells with similar marker expressions into "supercells" for each individual sample, enabling efficient analysis of large-scale cytometry datasets.
+  description: An extension of the SuperCell R package tailored for cytometry data. Aggregates cells with similar marker expressions into "supercells" for each individual sample, enabling efficient analysis of large-scale cytometry datasets. [Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03229-3).
   repo: phipsonlab/SuperCellCyto
   tags:
     - software

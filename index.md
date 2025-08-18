@@ -1,7 +1,7 @@
 ---
 ---
 
-# Phipson Lab - Bioinformatics & Statistical Genomics
+# Phipson Lab - From data to biological insight
 
 
 
@@ -29,7 +29,6 @@ Our research prioritizes transparency, rigor, and reproducibility, with all meth
 
 {%
   include feature.html
-  image="images/photo.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -53,7 +52,6 @@ All our software packages are freely available on GitHub and Bioconductor, with 
 
 {%
   include feature.html
-  image="images/photo.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -79,7 +77,6 @@ We strive to build an inclusive environment for research, recognizing that diver
 
 {%
   include feature.html
-  image="images/photo.jpg"
   link="team"
   title="Our Team"
   text=text
